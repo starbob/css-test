@@ -2,6 +2,7 @@ body {
   background: #00f !important;
 }
 
-header button{
- padding: 8px 14px!important;
+header button,
+.MuiButton-root {
+  padding: 8px 14px !important;
 }
