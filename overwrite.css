@@ -1,5 +1,10 @@
-body {
-  background: #00f !important;
+main {
+    background: #f5f1e8 !important;
+}
+
+header {
+  background-color: #e6dfce;
+  color: #3a3a3a;
 }
 
 header button,
