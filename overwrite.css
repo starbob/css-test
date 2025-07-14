@@ -11,4 +11,5 @@ header button,
 .MuiButton-root {
   padding: 8px 14px !important;
   border:none!important;
+  min-width: 0px!important;
 }
